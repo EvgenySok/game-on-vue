@@ -1,24 +1,4 @@
 # game-on-vue
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Enter the number of rows and columns. Press the start and have time to click on the yellow squares. You have one second (in simple mode). The game lasts until the middle of the opened fields.
+A simple game, but includes all the basic principles of working with
